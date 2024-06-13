@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damdev94 a passionate developer 
+- 👋 Hi, I’m Damien a passionate developer from Montréal
 - 👀 I’m interested in React, Ruby on Rails, nodeJs projects
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on fullstack applications
