@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Damien a passionate developer from Montréal
+- 👋 Hi, I’m Damien a passionate developer
 - 👀 I’m interested in React, Ruby on Rails, nodeJs projects
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on React, Ruby on Rails, NodeJs, Typescript
