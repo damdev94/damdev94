@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damien a passionate developer
-- 👀 I’m interested in React, Ruby on Rails, nodeJs projects
+- 👀 I’m interested in Typescript/React / Java / Python projects
 - 🌱 I’m currently learning Java and Typescript
-- 💞️ I’m looking to collaborate on React, Ruby on Rails, NodeJs, Typescript
+- 💞️ I’m looking to collaborate on React,Typescript, Java and Python 
 - 📫 How to reach me damiendp94@gmail.com / https://damdev94.netlify.app/
