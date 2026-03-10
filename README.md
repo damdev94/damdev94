@@ -2,4 +2,4 @@
 - 👀 I’m interested in Typescript/React / Java / Python projects
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on React,Typescript, Java and Python 
-- 📫 How to reach me damiendp94@gmail.com / https://damdev94.netlify.app/
+- 📫 How to reach me damienviel69@gmail.com
